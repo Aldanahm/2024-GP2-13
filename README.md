@@ -88,4 +88,10 @@ If you encounter any issues or need further assistance, please feel free to cont
 
 ---
 
+### **Login Credentials **
+Username: AldanahAlbeshr@gmail.com
+Password: Aldanah
+
+---
+
 Thank you for using InnerJoy. We hope our application makes a positive impact on your mental health journey.
