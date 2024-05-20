@@ -88,7 +88,7 @@ If you encounter any issues or need further assistance, please feel free to cont
 
 ---
 
-### **Login Credentials **
+### **Login Credentials**
 Username: AldanahAlbeshr@gmail.com
 Password: Aldanah
 
