@@ -1,3 +1,6 @@
+# 2024-GP2-13
+You can find the code in the master branch
+
 # inner_joy
 
 A Flutter project.
@@ -30,7 +33,7 @@ By combining AI, CBT, and thoughtful UX/UI design, we aspire to bridge the gap m
 
 #### **APK Installation (Android)**
 1. **Download the APK:**
-   - Click on the provided link to download the InnerJoy APK file: [Download InnerJoy APK](#)
+   - Download the InnerJoy APK file that we provided.
 
 2. **Enable Unknown Sources:**
    - Go to `Settings` > `Security`.
@@ -48,8 +51,8 @@ By combining AI, CBT, and thoughtful UX/UI design, we aspire to bridge the gap m
    - Open your terminal or command prompt.
    - Run the following command to clone the GitHub repository:
      ```bash
-     git clone [Your GitHub Repository URL]
-     cd [Your Project Directory]
+     git clone https://github.com/Aldanahm/2024-GP2-13.git
+     cd [Project Directory]
      ```
 
 2. **Set Up the Environment:**
@@ -76,12 +79,18 @@ By combining AI, CBT, and thoughtful UX/UI design, we aspire to bridge the gap m
      ```
 
 #### **GitHub Repository**
-- You can find the source code for the InnerJoy application on GitHub: [GitHub Repository Link](#)
+- You can find the source code for the InnerJoy application on GitHub: https://github.com/Aldanahm/2024-GP2-13.git(#)
 
 ---
 
 ### **Support**
 If you encounter any issues or need further assistance, please feel free to contact us.
+
+---
+
+### **Login Credentials**
+Username: AldanahAlbeshr@gmail.com
+Password: Aldanah
 
 ---
 
