@@ -79,7 +79,7 @@ By combining AI, CBT, and thoughtful UX/UI design, we aspire to bridge the gap m
      ```
 
 #### **GitHub Repository**
-- You can find the source code for the InnerJoy application on GitHub: https://github.com/Aldanahm/2024-GP2-13.git(#)
+- You can find the source code for the InnerJoy application on GitHub: https://github.com/Aldanahm/2024-GP2-13.git
 
 ---
 
